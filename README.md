@@ -51,7 +51,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-https://github.com/JiteshKhurana/GPTflix
+https://github.com/dvnn10/gpt-flix.git
 ```
 
 Go to the project directory
@@ -82,6 +82,4 @@ firebase deploy
 
 ## :handshake: Contact
 
-Jitesh Khurana - - jiteshkhurana59@gmail.com
-
-Project Link: [https://github.com/JiteshKhurana/GPTflix](https://github.com/JiteshKhurana/GPTflix)
+Project Link: [https://github.com/dvnn10/gpt-flix](https://github.com/dvnn10/gpt-flix)
