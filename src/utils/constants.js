@@ -18,3 +18,5 @@ export const SUPPORTED_LANGUAGES = [
   {id:"sp",name:"Spanish"},
   {id:"de",name:"German"},
 ]
+
+export const OPENAI_KEY = process.env.REACT_APP_OPENAI_KEY;
