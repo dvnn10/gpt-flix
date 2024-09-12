@@ -7,7 +7,7 @@ const gptSlice=createSlice({
         gptSearchError:null,
         gptMovies:null,
         gptMoviesLoading:false,
-        gptCredits:5,
+        gptCredits:10,
     },
     reducers:{
         toggleGptSearchView:(state)=>{
